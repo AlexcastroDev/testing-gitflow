@@ -1,0 +1,4 @@
+README.md
+files.txt
+log.txt
+package.json
